@@ -1,3 +1,9 @@
+#pip install ultralytics streamlit plotly pandas opencv-python
+#python -m streamlit run traffic.py
+
+
+streamlit run app.py
+
 import streamlit as st
 import cv2
 from ultralytics import YOLO
