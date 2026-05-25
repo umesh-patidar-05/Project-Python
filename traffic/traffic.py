@@ -2,7 +2,6 @@
 #python -m streamlit run traffic.py
 
 
-streamlit run app.py
 
 import streamlit as st
 import cv2
