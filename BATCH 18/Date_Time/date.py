@@ -15,5 +15,3 @@ def days_left():
     days_left = (last_date - today).days
     return days_left
     
-
-
